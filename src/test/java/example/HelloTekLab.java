@@ -10,6 +10,10 @@ public class HelloTekLab {
 		System.out.println("Starting by this line");
 
 		
+		System.out.println("Hello Chris");
+
+
+		
 		//new commit
 		System.out.println("Today is Tuesday");
 		
@@ -18,6 +22,9 @@ public class HelloTekLab {
 			temp=temp+"*";
 			System.out.println(temp);
 		}
+		System.out.println("Hello Jay, from Master!");
+		
+		System.out.println("Thanks for working with me Chris");
 
 	}
 
