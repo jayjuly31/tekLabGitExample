@@ -12,7 +12,7 @@ public class HelloTekLab {
 		
 		System.out.println("Hello Chris");
 
-
+		int a=10;
 		
 		//new commit
 		System.out.println("Today is Tuesday");
