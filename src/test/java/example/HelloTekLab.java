@@ -9,7 +9,8 @@ public class HelloTekLab {
 
 		System.out.println("Hello TekLab Students");
 		System.out.println("Week 9 change");
-		System.out.println("Week 9 second change");
+		System.out.println("Week 9 second commit");
+		System.out.println("Week 9 third commit today");
 
 
 	}
@@ -19,6 +20,8 @@ public class HelloTekLab {
 		String driverpath = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
-
+	public void goodMethod() {
+		System.out.println("this is a new Method");
+	}
 }
 
