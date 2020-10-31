@@ -8,10 +8,11 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
+		System.out.println("this is Izis's change");
+		System.out.println("This is my scond commit today");
 		
-
 	}
-	
+
 	@BeforeMethod
 	public void setUp() {
 		String driverpath = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver.exe";
@@ -19,4 +20,3 @@ public class HelloTekLab {
 	}
 
 }
-
