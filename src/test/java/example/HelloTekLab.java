@@ -1,6 +1,5 @@
 package example;
 
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 
 public class HelloTekLab {
@@ -8,6 +7,8 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
+		
+		System.out.println("This is Hannah's change");
 		
 
 	}
@@ -18,5 +19,9 @@ public class HelloTekLab {
 		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
 
+	public void newMethod() {
+		System.out.println("This is a new method");
+	}
 }
+
 
