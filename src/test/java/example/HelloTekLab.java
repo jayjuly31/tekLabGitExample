@@ -15,9 +15,11 @@ public class HelloTekLab {
 		System.out.println("This is Peter's change");
 		
 		System.out.println("This is my second commit today");	
-			
-		}
+		
+		System.out.println("this is my third commit today");
+		
 	}
+
 	
 	@BeforeMethod
 	public void setUp() {
@@ -26,7 +28,7 @@ public class HelloTekLab {
 	}
 	
 	public void goodMethod() {
-		System.out.prinitln("this is a new method");
+		System.out.println("this is a new method");
 		
 	}
 		
