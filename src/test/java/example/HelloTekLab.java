@@ -9,7 +9,8 @@ public class HelloTekLab {
 
 		System.out.println("Hello TekLab Students");
 		System.out.println("this is another change");
-		System.out.println("this is another change");
+		System.out.println("this is my change");
+		System.out.println("this is gulzar's change");
 	}
 	
 	@BeforeMethod
