@@ -19,6 +19,8 @@ public class HelloTekLab {
 		
 		System.out.println("this is my third commit today");
 		
+		System.out.println("This is Amanda's practice change.");
+		
 	}
 
 	
