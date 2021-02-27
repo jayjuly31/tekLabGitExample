@@ -7,6 +7,8 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
+		System.out.println("Peter says hello!");
+		System.out.println("Hello");
 	}
 
 	@BeforeMethod
