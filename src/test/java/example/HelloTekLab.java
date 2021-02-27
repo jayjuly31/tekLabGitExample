@@ -9,6 +9,7 @@ public class HelloTekLab {
 		System.out.println("Hello TekLab Students");
 		System.out.println("Peter says hello!");
 		System.out.println("Hello");
+		System.out.println("third line");
 	}
 
 	@BeforeMethod
