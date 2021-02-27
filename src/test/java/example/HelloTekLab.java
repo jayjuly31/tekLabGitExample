@@ -15,9 +15,4 @@ public class HelloTekLab {
 		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
 
-	public void goodMethod() {
-		System.out.println("this is a new method");
-
-	}
-
 }
