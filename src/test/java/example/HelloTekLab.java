@@ -7,9 +7,12 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
+
 		System.out.println("JayC");
 		System.out.println("Hello");
+		System.out.println("HudaS");
 		System.out.println("third line");
+
 	}
 
 	@BeforeMethod
