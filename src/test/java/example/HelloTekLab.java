@@ -8,7 +8,9 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
+
 		System.out.println("create a new feature");
+
 
 	}
 
@@ -21,8 +23,10 @@ public class HelloTekLab {
 	@AfterMethod
 	public void close() {
 		System.out.println("close browser");
+
 		System.out.println("NormaA aftermethod");
+
+		System.out.println("JayC aftermethod");
 	}
-	
 
 }
