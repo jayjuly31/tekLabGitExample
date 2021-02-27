@@ -8,6 +8,7 @@ public class HelloTekLab {
 
 		System.out.println("Hello TekLab Students");
 		System.out.println("JayC");
+		System.out.println("Hello");
 	}
 
 	@BeforeMethod
