@@ -19,7 +19,7 @@ public class HelloTekLab {
      @AfterMethod
      public void close() {
     	 System.out.println("close browser");
-    	 System.out.println("HudaS aftermethod");
+    	 System.out.println("HudaS aftermethod1");
      }
 	
 	
