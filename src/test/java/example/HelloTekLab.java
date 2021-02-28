@@ -8,8 +8,8 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
+		System.out.println("created a new feature");
 
-		System.out.println("create a new feature");
 
 
 	}
@@ -20,6 +20,7 @@ public class HelloTekLab {
 		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
 	
+
 	@AfterMethod
 	public void close() {
 		System.out.println("close browser");
@@ -27,6 +28,9 @@ public class HelloTekLab {
 		System.out.println("NormaA aftermethod");
 
 		System.out.println("JayC aftermethod");
+		
+		System.out.println("This is Peter's after method");
+
 	}
 
 }
