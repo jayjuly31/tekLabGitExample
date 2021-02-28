@@ -1,8 +1,7 @@
 package example;
 
 public class StudentFormPage {
-	
-	public static int studentID;
-	
+
+  public static int studentID;
 
 }
