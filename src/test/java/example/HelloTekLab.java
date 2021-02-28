@@ -7,7 +7,7 @@ public class HelloTekLab {
 
 	public static void main(String[] args) {
 		System.out.println("Hello TekLab Students");
-        System.out.println("created a new feature");
+        System.out.println("HudaS");
 	}
 
 	@BeforeMethod
@@ -17,10 +17,5 @@ public class HelloTekLab {
 	}
 
 	
-	@AfterMethod
-	public void close() {
-		System.out.println("close browser");
-
-	}
-
+	
 }
