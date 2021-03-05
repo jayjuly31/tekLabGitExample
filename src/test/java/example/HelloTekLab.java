@@ -7,9 +7,8 @@ public class HelloTekLab {
 
 	public static void main(String[] args) {
 		System.out.println("Hello TekLab Students");
-		System.out.println("Hi jay c");
-		System.out.println("Hello");
-		System.out.println("third line");
+		System.out.println("creat a new feature");
+	
 		
 	}
 
