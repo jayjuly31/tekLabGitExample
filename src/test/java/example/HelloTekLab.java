@@ -19,7 +19,7 @@ public class HelloTekLab {
 		
 		System.out.println("this is my third commit today");
 		
-		System.out.println("This is Amanda's practice 05/23/2021.");
+		System.out.println("This is Amanda's practice at 10pm on 05/23/2021.");
 		
 	}
 
