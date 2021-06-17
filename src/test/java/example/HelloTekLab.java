@@ -11,6 +11,8 @@ public class HelloTekLab {
 		System.out.println("Hello");
 		System.out.println("third line");
 		
+		System.out.println("This is Amanda's practice at 10pm on 05/23/2021, i added something else, too");
+		
 	}
 
 	@BeforeMethod
